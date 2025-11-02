@@ -15,7 +15,7 @@
 
 **sᴇssɪᴏɴ ɪᴅ💫**
 
-[![PHOENIX MD SESSION](https://img.shields.io/badge/PHOENIX%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-tech-web-session-id.onrender.com/pair)
+[![PHOENIX MD SESSION](https://img.shields.io/badge/PHOENIX%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://phoenix-md-session-m3r0.onrender.com)
 ---
 
 🧠 **ғᴇᴀᴛᴜʀᴇs**
