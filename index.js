@@ -113,8 +113,8 @@ async function loadSession() {
         else {
             console.log('Downloading MEGAsd session...');
             
-const megaFileId = config.SESSION_ID.startsWith('INCONNU~XD~') 
-    ? config.SESSION_ID.replace("INCONNU~XD~", "") 
+const megaFileId = config.SESSION_ID.startsWith('PHOENIX~MD~') 
+    ? config.SESSION_ID.replace("PHOENIX~MD~", "") 
     : config.SESSION_ID;
 
 const filer = File.fromURL(`https://mega.nz/file/${megaFileId}`);
@@ -191,7 +191,7 @@ conn.ev.on('connection.update', async (update) => {
     try {
 		// const username = config.REPO.split('/').slice(3, 4)[0];
  const botname = "𝐏𝐇𝐎𝐄𝐍𝐈𝐗"; //add your name
- const ownername = "-𝐌𝐃"; // add your name
+ const ownername = "𝐌𝐃"; // add your name
  const ali = { 
  key: { 
   remoteJid: 'status@broadcast', 
@@ -201,7 +201,7 @@ message:{
   newsletterAdminInviteMessage: { 
     newsletterJid: '120363418161689316@newsletter', //add your channel jid
     newsletterName: "𝐈𝐂𝐘 𝐁𝐎𝐓", //add your bot name
-    caption: botname + ` 𝐌Ɗ ` + ownername, 
+    caption: botname + ` 𝐌𝐃 ` + ownername, 
     inviteExpiration: 0
   }
  }
