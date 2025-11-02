@@ -1,0 +1,92 @@
+{
+    "bot-name": "𝗣𝗛𝗢𝗘𝗡𝗜𝗫-𝗠𝗗",
+    "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪᴅᴅʜᴀʀᴛʜs",
+    "logo": "https://files.catbox.moe/jfbed2.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://haiko-mdx-v2-session.onrender.com",
+    "owner-verification":"princextreme429@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with PHOENIX-MD;;;, or get session id from here, https://crazy-sess.onrender.com",
+        "value":"",
+        "required": true
+        
+      },
+      "PREFIX": {
+        "description": "Bot command prefix, (e.g, . , ! @ etc",
+        "value":".",
+        "required": true
+        
+      },
+      "AUTO_READ_STATUS": {
+        "description": "Bot will all status, To Enable put true and to disable put false (e.g, true)",
+        "value":"true",
+        "required": false
+        
+      },
+      "MODE": {
+        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
+        "value":"private",
+        "required": true
+        
+      },
+      "ALIVE_IMG": {
+        "description": "paste your image url if you don't have you can use this public url.",
+        "required": true,
+        "value": "https://files.catbox.moe/jfbed2.jpg"
+        
+      },
+      "AUTO_VOICE": {
+        "description": "Make it true if you want bot auto voice.",
+        "required": true,
+        "value": "true"
+        
+      },
+  
+      "AUTO_REPLY": {
+        "description": "Bot will reply to the msgs like gm, gn, love you, hate you, hi, etc... To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+        
+      },
+      "AUTO_REACT": {
+        "description": "Bot will react to the msgs, To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+        
+      },
+      "AUTO_STICKER": {
+        "description": "Make it true if you want bot auto sticker.",
+        "required": true,
+        "value": "false"
+        
+      },
+      "FAKE_RECORDING": {
+        "description": "Make it true if you want bot fake record.",
+        "required": true,
+        "value": "true"
+        
+      },
+      "BOT_NAME": {
+        "description": "write her your name.",
+        "required": true,
+        "value": "𝗫𝗧𝗥𝗘𝗠𝗘-𝗫𝗠𝗗"
+        
+      },
+      "ANTI_LINK": {
+        "description": "Bot delete or kick links sender from group, To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+        
+      },
+      "ALWAYS_ONLINE": {
+        "description": "Keep your WhatsApp always online put true to activate (e.g, true)",
+        "value":"false",
+        "required": false
+        
+        
+      }
+    }
+  
+  }
