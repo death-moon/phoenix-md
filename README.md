@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Princetechx/phoenix-md"><img src="https://img.shields.io/github/stars/Princetechx/phoenix-md?style=flat-square&color=yellow"></a>
-  <a href="https://github.com/Princetechx/phoenix-md/fork"><img src="https://img.shields.io/github/forks/Princetechx/phoenix-md?style=flat-square&color=lightblue"></a>
+  <a href="https://github.com/death-moon/phoenix-md"><img src="https://img.shields.io/github/stars/death-moon/phoenix-md?style=flat-square&color=yellow"></a>
+  <a href="https://github.com/death-moon/phoenix-md/fork"><img src="https://img.shields.io/github/forks/death-moon/phoenix-md?style=flat-square&color=lightblue"></a>
   <a href="https://whatsapp.com/channel/0029Vb6D2xV8kyyHNyDALh0i"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp"></a>
-  <a href="https://github.com/Princetechx"><img src="https://img.shields.io/badge/Dev-Prince sid-blueviolet?style=flat-square"></a>
+  <a href="https://github.com/death-moon"><img src="https://img.shields.io/badge/Dev-Prince sid-blueviolet?style=flat-square"></a>
 </p>
 
 **sᴇssɪᴏɴ ɪᴅ💫**
@@ -121,7 +121,7 @@ node .
 👑 Credits
 
 > *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ sɪᴅ*  
-> ᴄᴏɴᴛᴀᴄᴛ: `529633982655`
+> ᴄᴏɴᴛᴀᴄᴛ: `529541094055`
 
 ---
 
