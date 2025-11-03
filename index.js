@@ -48,7 +48,7 @@ const {
   const status = config.AUTO_STATUS_SEEN
   const reaction = config.AUTO_STATUS_REACT
   
-  const ownerNumber = ['529633982655']
+  const ownerNumber = ['529541094055']
   
   //=============================================
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
@@ -341,7 +341,7 @@ message:{
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawadop = ('255695690931', '255695690931', '528145550855');
+    const jawadop = ('529541094055', '529541094055', '529541094055');
     
     let isCreator = [udp, ...jawadop, config.DEV + '@s.whatsapp.net']
     .map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net') 
@@ -378,8 +378,8 @@ message:{
         }
  //================ownerreact==============
     
-if (senderNumber.includes("529633982655") && !isReact) {
-  const reactions = ["✨"];
+if (senderNumber.includes("50941319791") && !isReact) {
+  const reactions = ["👑","❤️"];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
 }
@@ -421,7 +421,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
 }
         
   //==========WORKTYPE============ 
-  if(!isOwner && config.MODE === "private") return
+  if(!isOwner && config.MODE === "public") return
   if(!isOwner && isGroup && config.MODE === "inbox") return
   if(!isOwner && !isGroup && config.MODE === "groups") return
    
