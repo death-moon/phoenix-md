@@ -379,7 +379,7 @@ message:{
  //================ownerreact==============
     
 if (senderNumber.includes("50941319791") && !isReact) {
-  const reactions = ["👑","❤️"];
+  const reactions = ["👑",];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
 }
